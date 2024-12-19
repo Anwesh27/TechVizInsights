@@ -1,5 +1,5 @@
 # TechVizInsights
-# ech Titans Unveiled: A Comprehensive Analysis of the Top 1000 Companies in 2024!
+# Tech Titans Unveiled: A Comprehensive Analysis of the Top 1000 Companies in 2024!
 
 This repository hosts an end-to-end data analysis project showcasing insights into the **Top 1000 Technology Companies**. The project leverages **Microsoft SQL Server**, **Microsoft Excel**, and **Power BI** to clean, analyze, and visualize data sourced from **Kaggle**. This README provides an overview of the project's objectives, tools, methodologies, and outcomes.
 
