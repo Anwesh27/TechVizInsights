@@ -119,6 +119,8 @@ To analyze a dataset of the world's top 1000 technology companies, uncover uniqu
 ## Live Visualizations
 You can explore the interactive visualizations at the following link: [Tech Titans Market Intelligence Hub](https://app.powerbi.com/view?r=eyJrIjoiZjM2MTljYmEtMmIyZC00NjdiLTkwNjYtZGRkYzliNDI3YmJlIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Getting Started
 To explore these visualizations, please download the Power BI file from this repository and open it in Power BI Desktop.
