@@ -79,7 +79,7 @@ To analyze a dataset of the world's top 1000 technology companies, uncover uniqu
 ### 5. **Power BI Visualizations**
 - **Dashboard Name**: "Tech Titans Market Intelligence Hub"
 - Visuals include:
-  1. **% Share of Market Capitalization by Top 10 Countries**
+1. **% Share of Market Capitalization by Top 10 Countries**
    - Analyzes the market capitalization distribution among the leading ten countries, highlighting their economic significance.
 
 2. **Top 10 Companies by Market Capitalization**
