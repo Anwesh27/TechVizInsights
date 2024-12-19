@@ -117,7 +117,7 @@ To analyze a dataset of the world's top 1000 technology companies, uncover uniqu
 - **Outliers**: Identified data anomalies or companies with unique trends.
 
 ## Live Visualizations
-You can explore the interactive visualizations at the following link:[Tech Titans Market Intelligence Hub](https://app.powerbi.com/view?r=eyJrIjoiZjM2MTljYmEtMmIyZC00NjdiLTkwNjYtZGRkYzliNDI3YmJlIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
+You can explore the interactive visualizations at the following link: [Tech Titans Market Intelligence Hub](https://app.powerbi.com/view?r=eyJrIjoiZjM2MTljYmEtMmIyZC00NjdiLTkwNjYtZGRkYzliNDI3YmJlIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
 
 
 ## Getting Started
