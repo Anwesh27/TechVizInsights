@@ -402,5 +402,4 @@ FROM CompanyCategories
 WHERE Category <> 'Other'
 ORDER BY CompanyCount DESC;
 
-SELECT *
-FROM TopTechCompanies
+-- Thank you
